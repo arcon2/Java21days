@@ -3,7 +3,7 @@ public class DzienDrugiCwiczenie01
     public static void main(String[] args)
     {
         int wartosc = 14000;
-        int wynik;
+        double wynik;
         System.out.println("Inwestycja warta jest: "+wartosc);
         wynik=(wartosc*40)/100;
         wynik=wynik+wartosc;
