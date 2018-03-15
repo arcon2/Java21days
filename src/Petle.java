@@ -8,6 +8,8 @@ public class Petle
         tablica[2]=8;
         tablica[3]=4;
         tablica[4]=7;
+
+
         //pętla for
         for(int i=0;i<tablica.length;i++) {
             System.out.println(tablica[i]);
