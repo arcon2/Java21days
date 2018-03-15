@@ -12,5 +12,6 @@ public class DzienDrugiCwiczenie01
         System.out.println("Inwestycja w trzecim roku zwiększyła się o 1500 zł: "+wynik);
         wynik=wynik+((wynik*12)/100);
         System.out.println("Inwestycja w czwartym roku zwiększyła się o 12%: "+wynik);
+
     }
 }

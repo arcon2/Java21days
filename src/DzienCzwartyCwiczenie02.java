@@ -23,5 +23,6 @@ public class DzienCzwartyCwiczenie02 {
         System.out.println("średnia produkcja: ");
         System.out.format("%,d%n",avargate);
 
+
     }
 }
