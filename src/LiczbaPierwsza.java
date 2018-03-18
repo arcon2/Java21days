@@ -10,6 +10,11 @@ public class LiczbaPierwsza
         System.out.println("Podałeś liczbę : "+liczba);
 
 
+        liczba1= (int) (liczba*0.5);
+
+
+        System.out.println(liczba1);
+
 
 
     }
